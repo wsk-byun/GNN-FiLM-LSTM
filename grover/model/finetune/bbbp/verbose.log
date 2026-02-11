@@ -1,0 +1,443 @@
+Loading data
+Loading data
+Number of tasks = 1
+Splitting data with seed 0
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Total scaffolds = 1,025 | train scaffolds = 764 | val scaffolds = 123 | test scaffolds = 138
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([0.72992701]), array([137])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([1])), (array([0.]), array([1])), (array([1.]), array([1])), (array([1.]), array([2])), (array([0.]), array([2])), (array([1.]), array([1]))]
+Class sizes
+Class sizes
+Class sizes
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+p_np 0: 23.49%, 1: 76.51%
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Total size = 2,039 | train size = 1,631 | val size = 203 | test size = 205
+Loading data
+Loading data
+Loading data
+Loading data
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Number of tasks = 1
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Splitting data with seed 0
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Loading data
+Number of tasks = 1
+Splitting data with seed 0
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Loading data
+Number of tasks = 1
+Splitting data with seed 0
+Total scaffolds = 155,610 | train scaffolds = 122,849 | val scaffolds = 16,316 | test scaffolds = 16,445
+Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([7.22]), array([20])), (array([7.6]), array([2])), (array([7.16]), array([1])), (array([7.88]), array([1])), (array([7.195]), array([2])), (array([7.8]), array([1])), (array([7.46]), array([1])), (array([5.41]), array([2])), (array([6.71333333]), array([3])), (array([6.66]), array([1]))]
+Total size = 777,399 | train size = 621,919 | val size = 77,739 | test size = 77,741
+Fitting scaler

@@ -1,0 +1,101 @@
+2025-05-06 19:32:54,158 DEBUG [Epoch 1] train_loss=0.7912 learning_rate=0.000575 completed in 2757s
+2025-05-06 20:20:12,536 DEBUG [Epoch 2] train_loss=0.7031 learning_rate=0.001000 completed in 2838s
+2025-05-06 20:25:27,237 DEBUG Epoch 2 val_loss=0.7094 rounds=0
+2025-05-06 21:11:50,327 DEBUG [Epoch 3] train_loss=0.6621 learning_rate=0.000988 completed in 2783s
+2025-05-06 21:58:08,587 DEBUG [Epoch 4] train_loss=0.6286 learning_rate=0.000977 completed in 2778s
+2025-05-06 22:03:28,124 DEBUG Epoch 4 val_loss=0.6345 rounds=0
+2025-05-06 22:49:35,856 DEBUG [Epoch 5] train_loss=0.5990 learning_rate=0.000966 completed in 2768s
+2025-05-06 23:35:02,418 DEBUG [Epoch 6] train_loss=0.5741 learning_rate=0.000955 completed in 2727s
+2025-05-06 23:39:55,834 DEBUG Epoch 6 val_loss=0.5960 rounds=0
+2025-05-07 00:24:58,328 DEBUG [Epoch 7] train_loss=0.5534 learning_rate=0.000944 completed in 2702s
+2025-05-07 01:10:10,133 DEBUG [Epoch 8] train_loss=0.5362 learning_rate=0.000933 completed in 2712s
+2025-05-07 01:15:23,349 DEBUG Epoch 8 val_loss=0.5679 rounds=0
+2025-05-07 02:00:27,905 DEBUG [Epoch 9] train_loss=0.5205 learning_rate=0.000922 completed in 2705s
+2025-05-07 02:45:43,656 DEBUG [Epoch 10] train_loss=0.5077 learning_rate=0.000911 completed in 2716s
+2025-05-07 02:50:37,942 DEBUG Epoch 10 val_loss=0.5508 rounds=0
+2025-05-07 03:36:23,418 DEBUG [Epoch 11] train_loss=0.4957 learning_rate=0.000901 completed in 2745s
+2025-05-07 04:21:30,030 DEBUG [Epoch 12] train_loss=0.4852 learning_rate=0.000890 completed in 2707s
+2025-05-07 04:26:43,943 DEBUG Epoch 12 val_loss=0.5342 rounds=0
+2025-05-07 05:11:39,850 DEBUG [Epoch 13] train_loss=0.4767 learning_rate=0.000880 completed in 2696s
+2025-05-07 05:57:17,367 DEBUG [Epoch 14] train_loss=0.4686 learning_rate=0.000870 completed in 2738s
+2025-05-07 06:02:15,708 DEBUG Epoch 14 val_loss=0.5220 rounds=0
+2025-05-07 06:47:22,220 DEBUG [Epoch 15] train_loss=0.4614 learning_rate=0.000860 completed in 2707s
+2025-05-07 07:33:04,945 DEBUG [Epoch 16] train_loss=0.4540 learning_rate=0.000850 completed in 2743s
+2025-05-07 07:37:52,693 DEBUG Epoch 16 val_loss=0.5091 rounds=0
+2025-05-07 08:23:40,367 DEBUG [Epoch 17] train_loss=0.4480 learning_rate=0.000840 completed in 2748s
+2025-05-07 09:09:38,462 DEBUG [Epoch 18] train_loss=0.4425 learning_rate=0.000830 completed in 2758s
+2025-05-07 09:15:37,729 DEBUG Epoch 18 val_loss=0.5157 rounds=1
+2025-05-07 10:01:20,101 DEBUG [Epoch 19] train_loss=0.4377 learning_rate=0.000821 completed in 2742s
+2025-05-07 10:47:33,462 DEBUG [Epoch 20] train_loss=0.4322 learning_rate=0.000811 completed in 2773s
+2025-05-07 10:52:46,037 DEBUG Epoch 20 val_loss=0.5060 rounds=0
+2025-05-07 11:39:39,927 DEBUG [Epoch 21] train_loss=0.4271 learning_rate=0.000802 completed in 2814s
+2025-05-07 12:25:34,756 DEBUG [Epoch 22] train_loss=0.4225 learning_rate=0.000792 completed in 2755s
+2025-05-07 12:30:49,978 DEBUG Epoch 22 val_loss=0.4924 rounds=0
+2025-05-07 13:17:12,879 DEBUG [Epoch 23] train_loss=0.4196 learning_rate=0.000783 completed in 2783s
+2025-05-07 14:02:37,743 DEBUG [Epoch 24] train_loss=0.4160 learning_rate=0.000774 completed in 2725s
+2025-05-07 14:07:43,266 DEBUG Epoch 24 val_loss=0.4929 rounds=1
+2025-05-07 14:53:36,051 DEBUG [Epoch 25] train_loss=0.4114 learning_rate=0.000765 completed in 2753s
+2025-05-07 15:38:27,557 DEBUG [Epoch 26] train_loss=0.4094 learning_rate=0.000756 completed in 2692s
+2025-05-07 15:43:21,319 DEBUG Epoch 26 val_loss=0.4829 rounds=0
+2025-05-07 16:28:39,638 DEBUG [Epoch 27] train_loss=0.4054 learning_rate=0.000748 completed in 2718s
+2025-05-07 17:15:02,912 DEBUG [Epoch 28] train_loss=0.4026 learning_rate=0.000739 completed in 2783s
+2025-05-07 17:20:13,887 DEBUG Epoch 28 val_loss=0.4915 rounds=1
+2025-05-07 18:05:08,416 DEBUG [Epoch 29] train_loss=0.4006 learning_rate=0.000731 completed in 2695s
+2025-05-07 18:51:12,134 DEBUG [Epoch 30] train_loss=0.3973 learning_rate=0.000722 completed in 2764s
+2025-05-07 18:56:26,918 DEBUG Epoch 30 val_loss=0.4813 rounds=0
+2025-05-07 19:43:53,733 DEBUG [Epoch 31] train_loss=0.3944 learning_rate=0.000714 completed in 2847s
+2025-05-07 20:30:07,916 DEBUG [Epoch 32] train_loss=0.3918 learning_rate=0.000705 completed in 2774s
+2025-05-07 20:35:04,353 DEBUG Epoch 32 val_loss=0.4794 rounds=0
+2025-05-07 21:21:00,471 DEBUG [Epoch 33] train_loss=0.3902 learning_rate=0.000697 completed in 2756s
+2025-05-07 22:06:55,712 DEBUG [Epoch 34] train_loss=0.3872 learning_rate=0.000689 completed in 2755s
+2025-05-07 22:12:01,037 DEBUG Epoch 34 val_loss=0.4737 rounds=0
+2025-05-07 22:57:47,656 DEBUG [Epoch 35] train_loss=0.3859 learning_rate=0.000681 completed in 2747s
+2025-05-07 23:43:56,553 DEBUG [Epoch 36] train_loss=0.3825 learning_rate=0.000673 completed in 2769s
+2025-05-07 23:48:58,306 DEBUG Epoch 36 val_loss=0.4835 rounds=1
+2025-05-08 00:37:56,126 DEBUG [Epoch 37] train_loss=0.3809 learning_rate=0.000666 completed in 2938s
+2025-05-08 01:33:20,123 DEBUG [Epoch 38] train_loss=0.3794 learning_rate=0.000658 completed in 3324s
+2025-05-08 01:39:25,163 DEBUG Epoch 38 val_loss=0.4745 rounds=2
+2025-05-08 02:33:14,290 DEBUG [Epoch 39] train_loss=0.3774 learning_rate=0.000650 completed in 3229s
+2025-05-08 03:21:00,848 DEBUG [Epoch 40] train_loss=0.3764 learning_rate=0.000643 completed in 2867s
+2025-05-08 03:25:57,088 DEBUG Epoch 40 val_loss=0.4699 rounds=0
+2025-05-08 04:11:09,845 DEBUG [Epoch 41] train_loss=0.3739 learning_rate=0.000635 completed in 2713s
+2025-05-08 04:57:23,477 DEBUG [Epoch 42] train_loss=0.3727 learning_rate=0.000628 completed in 2774s
+2025-05-08 05:02:38,727 DEBUG Epoch 42 val_loss=0.4674 rounds=0
+2025-05-08 05:47:39,757 DEBUG [Epoch 43] train_loss=0.3717 learning_rate=0.000621 completed in 2701s
+2025-05-08 06:33:20,714 DEBUG [Epoch 44] train_loss=0.3690 learning_rate=0.000614 completed in 2741s
+2025-05-08 06:38:38,976 DEBUG Epoch 44 val_loss=0.4637 rounds=0
+2025-05-08 07:24:18,893 DEBUG [Epoch 45] train_loss=0.3682 learning_rate=0.000606 completed in 2740s
+2025-05-08 08:09:52,495 DEBUG [Epoch 46] train_loss=0.3669 learning_rate=0.000599 completed in 2734s
+2025-05-08 08:15:09,373 DEBUG Epoch 46 val_loss=0.4718 rounds=1
+2025-05-08 09:01:16,516 DEBUG [Epoch 47] train_loss=0.3655 learning_rate=0.000593 completed in 2767s
+2025-05-08 09:47:39,036 DEBUG [Epoch 48] train_loss=0.3639 learning_rate=0.000586 completed in 2783s
+2025-05-08 09:53:00,989 DEBUG Epoch 48 val_loss=0.4627 rounds=0
+2025-05-08 10:44:49,872 DEBUG [Epoch 49] train_loss=0.3626 learning_rate=0.000579 completed in 3109s
+2025-05-08 11:34:27,556 DEBUG [Epoch 50] train_loss=0.3610 learning_rate=0.000572 completed in 2978s
+2025-05-08 11:40:40,983 DEBUG Epoch 50 val_loss=0.4658 rounds=1
+2025-05-08 12:32:27,115 DEBUG [Epoch 51] train_loss=0.3606 learning_rate=0.000566 completed in 3106s
+2025-05-08 13:22:30,564 DEBUG [Epoch 52] train_loss=0.3588 learning_rate=0.000559 completed in 3003s
+2025-05-08 13:28:30,956 DEBUG Epoch 52 val_loss=0.4605 rounds=0
+2025-05-08 14:18:58,010 DEBUG [Epoch 53] train_loss=0.3576 learning_rate=0.000553 completed in 3027s
+2025-05-08 15:11:12,410 DEBUG [Epoch 54] train_loss=0.3569 learning_rate=0.000546 completed in 3134s
+2025-05-08 15:16:35,658 DEBUG Epoch 54 val_loss=0.4582 rounds=0
+2025-05-08 16:12:47,763 DEBUG [Epoch 55] train_loss=0.3554 learning_rate=0.000540 completed in 3372s
+2025-05-08 17:04:39,818 DEBUG [Epoch 56] train_loss=0.3543 learning_rate=0.000534 completed in 3112s
+2025-05-08 17:11:37,140 DEBUG Epoch 56 val_loss=0.4565 rounds=0
+2025-05-08 18:13:04,730 DEBUG [Epoch 57] train_loss=0.3540 learning_rate=0.000527 completed in 3688s
+2025-05-08 19:14:50,521 DEBUG [Epoch 58] train_loss=0.3523 learning_rate=0.000521 completed in 3706s
+2025-05-08 19:21:53,189 DEBUG Epoch 58 val_loss=0.4591 rounds=1
+2025-05-08 20:23:53,867 DEBUG [Epoch 59] train_loss=0.3511 learning_rate=0.000515 completed in 3721s
+2025-05-08 21:26:03,694 DEBUG [Epoch 60] train_loss=0.3513 learning_rate=0.000509 completed in 3730s
+2025-05-08 21:33:07,950 DEBUG Epoch 60 val_loss=0.4573 rounds=2
+2025-05-08 22:35:15,130 DEBUG [Epoch 61] train_loss=0.3492 learning_rate=0.000504 completed in 3727s
+2025-05-08 23:37:44,051 DEBUG [Epoch 62] train_loss=0.3489 learning_rate=0.000498 completed in 3749s
+2025-05-08 23:44:45,959 DEBUG Epoch 62 val_loss=0.4643 rounds=3
+2025-05-08 23:44:45,962 INFO No improvement after 3 validation rounds (last best epoch 56), stopping early.
+2025-05-22 08:08:16,524 DEBUG Loading data
+2025-05-22 08:08:17,627 DEBUG Number of tasks = 1
+2025-05-22 08:08:17,627 DEBUG Splitting data with seed 0
+2025-05-22 08:08:17,637 DEBUG Total scaffolds = 6 | train scaffolds = 5 | val scaffolds = 0 | test scaffolds = 1
+2025-05-22 08:08:17,638 DEBUG Label averages per scaffold, in decreasing order of scaffold frequency,capped at 10 scaffolds and 20 labels: [(array([6.]), array([1])), (array([4.75666667]), array([3])), (array([5.05]), array([1])), (array([5.6]), array([1])), (array([5.98666667]), array([3])), (array([7.53]), array([1]))]
+2025-05-22 08:08:17,639 DEBUG Total size = 10 | train size = 7 | val size = 0 | test size = 3
+2025-05-22 08:08:17,639 DEBUG Fitting scaler

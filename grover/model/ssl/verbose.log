@@ -1,0 +1,8 @@
+Loading data
+Splitting data with seed 0.
+Total size = 2,409,254 | train size = 2,168,300 | val size = 240,954
+atom vocab size: 1555, bond vocab size: 2002, Number of FG tasks: 85
+Loading data
+Splitting data with seed 0.
+Total size = 2,409,254 | train size = 2,168,300 | val size = 240,954
+atom vocab size: 1555, bond vocab size: 2002, Number of FG tasks: 85

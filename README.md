@@ -3,9 +3,6 @@
 This repository contains the implementation of a drug-target interaction model that predicts IC50 values.
 It fuses molecular embeddings (from a pretrained GROVER transformer) with protein sequence embeddings using FiLM.
 
-<br>
-<details>
-<summary>My study materials</summary>
 
 ### Predicting IRAK4 IC50 values with GNN
 - Molecule Input Expressions ([Part 1](https://wsbyun251.tistory.com/5))
@@ -13,7 +10,7 @@ It fuses molecular embeddings (from a pretrained GROVER transformer) with protei
 - Pretraining with GROVER ([Part 3](https://wsbyun251.tistory.com/14))
 - Finetuning ([Part 4](https://wsbyun251.tistory.com/15))
 
-</details>
+<br>
 
 ## Workflow Overview
 1) Data Preparation: Extract and clean data from ChEMBL.
